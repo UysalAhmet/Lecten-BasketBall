@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/08.06.2021/08.06.2021.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
